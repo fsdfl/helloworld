@@ -1,3 +1,1 @@
-你好，这是第一份 git 文件提交
-
-第二行
+ssh-keygen -t rsa -C "fsdfl@hotmail.com"
